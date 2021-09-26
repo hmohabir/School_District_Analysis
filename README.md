@@ -31,7 +31,9 @@ A good note to be made is that the 9th grade data replacement for Thomas High sc
 
 ![Average Reading by Grade by School](https://github.com/hmohabir/School_District_Analysis/blob/main/Average%20Reading%20by%20Grade.png)
 
+
 ## Summary
+
 
 ### School Spending summary
 
